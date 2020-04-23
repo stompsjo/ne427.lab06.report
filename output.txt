@@ -35,7 +35,10 @@ Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty))
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
-No file Lab6_9073072564_200427.aux.
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty)))
+(./Lab6_9073072564_200427.aux)
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
@@ -47,46 +50,1144 @@ No file Lab6_9073072564_200427.aux.
 
 LaTeX Warning: No \author given.
 
-(./introduction.tex [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+(./abstract.tex) (./introduction.tex [1{/var/lib/texmf/fonts/map/pdftex/updmap/
+pdftex.map}]
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 20.
-
-[2]) (./approach.tex
-
-LaTeX Warning: Reference `fig:alpha-setup' on page 3 undefined on input line 3.
+LaTeX Warning: Citation `melissinos' on page 2 undefined on input line 11.
 
 
-
-LaTeX Warning: Reference `fig:au198' on page 3 undefined on input line 26.
-
-
-LaTeX Warning: Reference `fig:gamma-setup' on page 3 undefined on input line 26
-.
-
-) [3] (./results.tex
-
-LaTeX Warning: Reference `fig:variation' on page 4 undefined on input line 40.
+LaTeX Warning: Citation `knoll' on page 2 undefined on input line 17.
 
 
-LaTeX Warning: Reference `fig:peak-position' on page 4 undefined on input line 
-42.
+LaTeX Warning: Citation `knoll' on page 2 undefined on input line 23.
+
+[2]
+
+LaTeX Warning: Citation `krane' on page 3 undefined on input line 35.
 
 
-LaTeX Warning: Reference `fig:mean-energy' on page 4 undefined on input line 48
-.
-
-[4 <./alpha_setup.png>] [5 <./au198.png> <./gamma_setup.png>] [6 <./variation.p
-ng> <./peak_position.png>] [7 <./mean_energy.png>] [8 <./stopping_power.png>]
-[9 <./count_rate.png>]
-
-LaTeX Warning: Reference `fig:stopping-power' on page 10 undefined on input lin
-e 50.
+LaTeX Warning: Citation `knoll' on page 3 undefined on input line 37.
 
 
-LaTeX Warning: Reference `fig:count-rate' on page 10 undefined on input line 52
-.
+LaTeX Warning: Citation `knoll' on page 3 undefined on input line 43.
 
-) [10] (./Lab6_9073072564_200427.aux)
+) (./approach.tex
+
+LaTeX Warning: Citation `dataset' on page 3 undefined on input line 13.
+
+
+LaTeX Warning: Citation `dataset' on page 3 undefined on input line 13.
+
+[3]
+
+LaTeX Warning: Citation `krane' on page 4 undefined on input line 26.
+
+
+LaTeX Warning: Citation `knoll' on page 4 undefined on input line 28.
+
+) [4 <./alpha_setup.png>] [5 <./au198.png>] [6 <./gamma_setup.png>]
+(./results.tex
+! Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.70   \centering
+                 
+? ! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.70   \centering
+                 
+? 
+Overfull \hbox (11.81937pt too wide) in paragraph at lines 72--72
+[]\OT1/cmr/m/n/9 (a)
+
+Overfull \hbox (19.14499pt too wide) in paragraph at lines 72--72
+|\OT1/cmr/m/n/9 Rep-
+
+Overfull \hbox (10.81589pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 re-
+
+Overfull \hbox (15.9853pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 sen-
+
+Overfull \hbox (11.30548pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 ta-
+
+Overfull \hbox (14.90614pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 tive
+
+Overfull \hbox (23.75877pt too wide) in paragraph at lines 72--72
+[][]\OML/cmm/m/it/9 Au$
+
+Overfull \hbox (12.33672pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 en-
+
+Overfull \hbox (17.23946pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 ergy
+
+Overfull \hbox (20.35333pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 spec-
+
+Overfull \hbox (20.06236pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 trum
+
+Overfull \hbox (19.01376pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 plot-
+
+Overfull \hbox (12.8506pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 ted
+
+Overfull \hbox (7.70828pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 in
+
+Overfull \hbox (4.62497pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 a
+
+Overfull \hbox (21.12416pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 semi-
+
+Overfull \hbox (45.75664pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 logarithmic
+
+Overfull \hbox (12.07631pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 (y)
+
+Overfull \hbox (21.63805pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 scale.
+
+Overfull \hbox (23.89774pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 While
+
+Overfull \hbox (14.95407pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 this
+
+Overfull \hbox (20.35333pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 spec-
+
+Overfull \hbox (20.06236pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 trum
+
+Overfull \hbox (13.41241pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 has
+
+Overfull \hbox (13.36102pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 not
+
+Overfull \hbox (18.76375pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 been
+
+Overfull \hbox (12.33672pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 en-
+
+Overfull \hbox (17.23946pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 ergy
+
+Overfull \hbox (14.3888pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 cal-
+
+Overfull \hbox (5.65274pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 i-
+
+Overfull \hbox (28.80188pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 brated,
+
+Overfull \hbox (12.8506pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 the
+
+Overfull \hbox (21.0693pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 411.8
+
+Overfull \hbox (15.67557pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 keV
+
+Overfull \hbox (17.986pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 pho-
+
+Overfull \hbox (11.30548pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 to-
+
+Overfull \hbox (19.01723pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 peak
+
+Overfull \hbox (6.21802pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 is
+
+Overfull \hbox (26.4894pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 clearly
+
+Overfull \hbox (14.18324pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 vis-
+
+Overfull \hbox (5.65274pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 i-
+
+Overfull \hbox (11.82283pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 ble
+
+Overfull \hbox (14.90268pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 and
+
+Overfull \hbox (10.7916pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 in-
+
+Overfull \hbox (20.61374pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 tense
+
+Overfull \hbox (28.78105pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 enough
+
+Overfull \hbox (8.22217pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 to
+
+Overfull \hbox (25.22551pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 record
+
+Overfull \hbox (19.01723pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 peak
+
+Overfull \hbox (24.76929pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 statis-
+
+Overfull \hbox (16.49573pt too wide) in paragraph at lines 72--72
+\OT1/cmr/m/n/9 tics.| 
+! Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.74   \end{subfigure}
+                      
+? ! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.74   \end{subfigure}
+                      
+? ! Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.77   \centering
+                 
+? ! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.77   \centering
+                 
+? 
+Overfull \hbox (12.33325pt too wide) in paragraph at lines 79--79
+[]\OT1/cmr/m/n/9 (b)
+
+Overfull \hbox (15.93391pt too wide) in paragraph at lines 79--79
+|\OT1/cmr/m/n/9 The
+
+Overfull \hbox (21.58319pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 back-
+
+Overfull \hbox (28.28453pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 ground
+
+Overfull \hbox (11.32631pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 ra-
+
+Overfull \hbox (10.7916pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 di-
+
+Overfull \hbox (7.70828pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 a-
+
+Overfull \hbox (15.93045pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 tion
+
+Overfull \hbox (12.33672pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 de-
+
+Overfull \hbox (24.67343pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 tected
+
+Overfull \hbox (7.70828pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 in
+
+Overfull \hbox (12.8506pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 the
+
+Overfull \hbox (14.89987pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 NaI
+
+Overfull \hbox (18.55127pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 scin-
+
+Overfull \hbox (11.81937pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 til-
+
+Overfull \hbox (10.27771pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 la-
+
+Overfull \hbox (11.8402pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 tor
+
+Overfull \hbox (6.21802pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 is
+
+Overfull \hbox (19.01376pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 plot-
+
+Overfull \hbox (12.8506pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 ted
+
+Overfull \hbox (19.5554pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 here.
+
+Overfull \hbox (18.03738pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 This
+
+Overfull \hbox (17.986pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 data
+
+Overfull \hbox (6.21802pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 is
+
+Overfull \hbox (14.3888pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 col-
+
+Overfull \hbox (23.64566pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 lected
+
+Overfull \hbox (9.76382pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 by
+
+Overfull \hbox (28.30882pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 record-
+
+Overfull \hbox (12.33325pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 ing
+
+Overfull \hbox (19.53111pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 mea-
+
+Overfull \hbox (19.60333pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 sure-
+
+Overfull \hbox (23.95053pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 ments
+
+Overfull \hbox (8.22217pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 at
+
+Overfull \hbox (20.57625pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 vary-
+
+Overfull \hbox (12.33325pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 ing
+
+Overfull \hbox (16.4478pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 lead
+
+Overfull \hbox (26.26302pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 shield-
+
+Overfull \hbox (12.33325pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 ing
+
+Overfull \hbox (23.12485pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 thick-
+
+Overfull \hbox (16.55058pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 ness
+
+Overfull \hbox (17.986pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 with
+
+Overfull \hbox (12.8506pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 the
+
+Overfull \hbox (11.32631pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 ra-
+
+Overfull \hbox (10.7916pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 di-
+
+Overfull \hbox (7.70828pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 a-
+
+Overfull \hbox (15.93045pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 tion
+
+Overfull \hbox (25.25607pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 source
+
+Overfull \hbox (33.9199pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 plugged.
+
+Overfull \hbox (15.93391pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 The
+
+Overfull \hbox (21.58319pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 back-
+
+Overfull \hbox (28.28453pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 ground
+
+Overfull \hbox (6.21802pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 is
+
+Overfull \hbox (11.35687pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 as-
+
+Overfull \hbox (25.74913pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 sumed
+
+Overfull \hbox (8.22217pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 to
+
+Overfull \hbox (9.51035pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 be
+
+Overfull \hbox (13.36102pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 lin-
+
+Overfull \hbox (12.35754pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 ear
+
+Overfull \hbox (7.70828pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 in
+
+Overfull \hbox (10.81589pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 re-
+
+Overfull \hbox (18.00682pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 gard
+
+Overfull \hbox (8.22217pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 to
+
+Overfull \hbox (12.8506pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 the
+
+Overfull \hbox (26.26302pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 shield-
+
+Overfull \hbox (12.33325pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 ing
+
+Overfull \hbox (23.12485pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 thick-
+
+Overfull \hbox (16.55058pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 ness
+
+Overfull \hbox (14.90268pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 and
+
+Overfull \hbox (4.62497pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 a
+
+Overfull \hbox (13.36102pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 lin-
+
+Overfull \hbox (12.35754pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 ear
+
+Overfull \hbox (10.81589pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 re-
+
+Overfull \hbox (10.27771pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 la-
+
+Overfull \hbox (19.01376pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 tion-
+
+Overfull \hbox (16.49573pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 ship
+
+Overfull \hbox (6.21802pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 is
+
+Overfull \hbox (19.01376pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 plot-
+
+Overfull \hbox (12.8506pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 ted
+
+Overfull \hbox (14.90268pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 and
+
+Overfull \hbox (10.7916pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 in-
+
+Overfull \hbox (14.41309pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 ter-
+
+Overfull \hbox (13.10408pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 po-
+
+Overfull \hbox (22.61443pt too wide) in paragraph at lines 79--79
+\OT1/cmr/m/n/9 lated.| 
+! Improper \prevdepth.
+<recently read> \prevdepth 
+                           
+l.81   \end{figure}
+                   
+? ! You can't use `\prevdepth' in horizontal mode.
+\end@float ...pdima \prevdepth \vbox {}\prevdepth 
+                                                  \@tempdima \penalty \@floa...
+l.81   \end{figure}
+                   
+? ! Missing number, treated as zero.
+<to be read again> 
+                   \penalty 
+l.81   \end{figure}
+                   
+? ! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \penalty 
+l.81   \end{figure}
+                   
+? 
+! LaTeX Error: \begin{subfigure} on input line 76 ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81   \end{figure}
+                   
+? ! Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.84   \centering
+                 
+? ! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.84   \centering
+                 
+? 
+Overfull \hbox (11.30548pt too wide) in paragraph at lines 86--86
+[]\OT1/cmr/m/n/9 (c)
+
+Overfull \hbox (15.93391pt too wide) in paragraph at lines 86--86
+|\OT1/cmr/m/n/9 The
+
+Overfull \hbox (11.30548pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 at-
+
+Overfull \hbox (15.93391pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 ten-
+
+Overfull \hbox (8.22217pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 u-
+
+Overfull \hbox (7.70828pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 a-
+
+Overfull \hbox (15.93045pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 tion
+
+Overfull \hbox (7.45134pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 of
+
+Overfull \hbox (29.29147pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 gamma
+
+Overfull \hbox (11.32631pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 ra-
+
+Overfull \hbox (10.7916pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 di-
+
+Overfull \hbox (7.70828pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 a-
+
+Overfull \hbox (15.93045pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 tion
+
+Overfull \hbox (6.21802pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 is
+
+Overfull \hbox (19.01376pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 plot-
+
+Overfull \hbox (12.8506pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 ted
+
+Overfull \hbox (11.06937pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 for
+
+Overfull \hbox (13.61797pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 dif-
+
+Overfull \hbox (13.64226pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 fer-
+
+Overfull \hbox (12.59366pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 ent
+
+Overfull \hbox (23.12485pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 thick-
+
+Overfull \hbox (24.31372pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 nesses
+
+Overfull \hbox (7.45134pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 of
+
+Overfull \hbox (19.01723pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 lead.
+
+Overfull \hbox (15.93391pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 The
+
+Overfull \hbox (17.986pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 data
+
+Overfull \hbox (12.07977pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 ex-
+
+Overfull \hbox (22.66235pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 hibits
+
+Overfull \hbox (9.76382pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 an
+
+Overfull \hbox (12.07977pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 ex-
+
+Overfull \hbox (13.10408pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 po-
+
+Overfull \hbox (17.47557pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 nen-
+
+Overfull \hbox (13.36102pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 tial
+
+Overfull \hbox (12.33672pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 de-
+
+Overfull \hbox (13.36102pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 cay
+
+Overfull \hbox (12.59366pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 be-
+
+Overfull \hbox (17.4721pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 hav-
+
+Overfull \hbox (10.81242pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 ior
+
+Overfull \hbox (10.7916pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 in-
+
+Overfull \hbox (19.52765pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 dica-
+
+Overfull \hbox (14.90614pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 tive
+
+Overfull \hbox (7.45134pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 of
+
+Overfull \hbox (29.29147pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 gamma
+
+Overfull \hbox (11.30548pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 at-
+
+Overfull \hbox (15.93391pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 ten-
+
+Overfull \hbox (8.22217pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 u-
+
+Overfull \hbox (7.70828pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 a-
+
+Overfull \hbox (18.49988pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 tion.
+
+Overfull \hbox (18.03738pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 This
+
+Overfull \hbox (17.986pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 data
+
+Overfull \hbox (13.87491pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 can
+
+Overfull \hbox (9.51035pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 be
+
+Overfull \hbox (11.81937pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 fit-
+
+Overfull \hbox (12.8506pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 ted
+
+Overfull \hbox (8.22217pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 to
+
+Overfull \hbox (4.62497pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 a
+
+Overfull \hbox (20.3193pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 char-
+
+Overfull \hbox (11.81937pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 ac-
+
+Overfull \hbox (14.41309pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 ter-
+
+Overfull \hbox (9.30133pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 is-
+
+Overfull \hbox (10.27771pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 tic
+
+Overfull \hbox (20.29848pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 func-
+
+Overfull \hbox (15.93045pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 tion
+
+Overfull \hbox (14.90268pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 and
+
+Overfull \hbox (12.8506pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 the
+
+Overfull \hbox (19.63043pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 mass
+
+Overfull \hbox (11.30548pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 at-
+
+Overfull \hbox (15.93391pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 ten-
+
+Overfull \hbox (8.22217pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 u-
+
+Overfull \hbox (7.70828pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 a-
+
+Overfull \hbox (15.93045pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 tion
+
+Overfull \hbox (11.81937pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 co-
+
+Overfull \hbox (10.02423pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 ef-
+
+Overfull \hbox (8.22217pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 fi-
+
+Overfull \hbox (19.27417pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 cient
+
+Overfull \hbox (13.87491pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 can
+
+Overfull \hbox (9.51035pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 be
+
+Overfull \hbox (12.07977pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 ex-
+
+Overfull \hbox (28.80188pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 tracted
+
+Overfull \hbox (18.77765pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 from
+
+Overfull \hbox (12.8506pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 the
+
+Overfull \hbox (11.30548pt too wide) in paragraph at lines 86--86
+\OT1/cmr/m/n/9 fit.| 
+! Improper \prevdepth.
+<recently read> \prevdepth 
+                           
+l.88   \end{figure}
+                   
+? ! You can't use `\prevdepth' in horizontal mode.
+\end@float ...pdima \prevdepth \vbox {}\prevdepth 
+                                                  \@tempdima \penalty \@floa...
+l.88   \end{figure}
+                   
+? ! Missing number, treated as zero.
+<to be read again> 
+                   \penalty 
+l.88   \end{figure}
+                   
+? ! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \penalty 
+l.88   \end{figure}
+                   
+? 
+! LaTeX Error: \begin{subfigure} on input line 83 ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88   \end{figure}
+                   
+? ! Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.91   \centering
+                 
+? ! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.91   \centering
+                 
+? 
+Overfull \hbox (12.33325pt too wide) in paragraph at lines 93--93
+[]\OT1/cmr/m/n/9 (d)
+
+Overfull \hbox (15.93391pt too wide) in paragraph at lines 93--93
+|\OT1/cmr/m/n/9 The
+
+Overfull \hbox (11.30548pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 at-
+
+Overfull \hbox (15.93391pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 ten-
+
+Overfull \hbox (8.22217pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 u-
+
+Overfull \hbox (7.70828pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 a-
+
+Overfull \hbox (15.93045pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 tion
+
+Overfull \hbox (7.45134pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 of
+
+Overfull \hbox (29.29147pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 gamma
+
+Overfull \hbox (11.32631pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 ra-
+
+Overfull \hbox (10.7916pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 di-
+
+Overfull \hbox (7.70828pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 a-
+
+Overfull \hbox (15.93045pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 tion
+
+Overfull \hbox (6.21802pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 is
+
+Overfull \hbox (19.01376pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 plot-
+
+Overfull \hbox (12.8506pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 ted
+
+Overfull \hbox (11.06937pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 for
+
+Overfull \hbox (13.61797pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 dif-
+
+Overfull \hbox (13.64226pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 fer-
+
+Overfull \hbox (12.59366pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 ent
+
+Overfull \hbox (23.12485pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 thick-
+
+Overfull \hbox (24.31372pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 nesses
+
+Overfull \hbox (7.45134pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 of
+
+Overfull \hbox (15.41656pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 alu-
+
+Overfull \hbox (30.57619pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 minum.
+
+Overfull \hbox (15.93391pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 The
+
+Overfull \hbox (17.986pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 data
+
+Overfull \hbox (12.07977pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 ex-
+
+Overfull \hbox (22.66235pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 hibits
+
+Overfull \hbox (9.76382pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 an
+
+Overfull \hbox (12.07977pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 ex-
+
+Overfull \hbox (13.10408pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 po-
+
+Overfull \hbox (17.47557pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 nen-
+
+Overfull \hbox (13.36102pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 tial
+
+Overfull \hbox (12.33672pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 de-
+
+Overfull \hbox (13.36102pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 cay
+
+Overfull \hbox (12.59366pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 be-
+
+Overfull \hbox (17.4721pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 hav-
+
+Overfull \hbox (10.81242pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 ior
+
+Overfull \hbox (10.7916pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 in-
+
+Overfull \hbox (19.52765pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 dica-
+
+Overfull \hbox (14.90614pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 tive
+
+Overfull \hbox (7.45134pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 of
+
+Overfull \hbox (29.29147pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 gamma
+
+Overfull \hbox (11.30548pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 at-
+
+Overfull \hbox (15.93391pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 ten-
+
+Overfull \hbox (8.22217pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 u-
+
+Overfull \hbox (7.70828pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 a-
+
+Overfull \hbox (18.49988pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 tion.
+
+Overfull \hbox (18.03738pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 This
+
+Overfull \hbox (17.986pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 data
+
+Overfull \hbox (13.87491pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 can
+
+Overfull \hbox (9.51035pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 be
+
+Overfull \hbox (11.81937pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 fit-
+
+Overfull \hbox (12.8506pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 ted
+
+Overfull \hbox (8.22217pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 to
+
+Overfull \hbox (4.62497pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 a
+
+Overfull \hbox (20.3193pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 char-
+
+Overfull \hbox (11.81937pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 ac-
+
+Overfull \hbox (14.41309pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 ter-
+
+Overfull \hbox (9.30133pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 is-
+
+Overfull \hbox (10.27771pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 tic
+
+Overfull \hbox (20.29848pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 func-
+
+Overfull \hbox (15.93045pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 tion
+
+Overfull \hbox (14.90268pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 and
+
+Overfull \hbox (12.8506pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 the
+
+Overfull \hbox (19.63043pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 mass
+
+Overfull \hbox (11.30548pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 at-
+
+Overfull \hbox (15.93391pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 ten-
+
+Overfull \hbox (8.22217pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 u-
+
+Overfull \hbox (7.70828pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 a-
+
+Overfull \hbox (15.93045pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 tion
+
+Overfull \hbox (11.81937pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 co-
+
+Overfull \hbox (10.02423pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 ef-
+
+Overfull \hbox (8.22217pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 fi-
+
+Overfull \hbox (19.27417pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 cient
+
+Overfull \hbox (13.87491pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 can
+
+Overfull \hbox (9.51035pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 be
+
+Overfull \hbox (12.07977pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 ex-
+
+Overfull \hbox (28.80188pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 tracted
+
+Overfull \hbox (18.77765pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 from
+
+Overfull \hbox (12.8506pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 the
+
+Overfull \hbox (11.30548pt too wide) in paragraph at lines 93--93
+\OT1/cmr/m/n/9 fit.| 
+! Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.95   \end{subfigure}
+                      
+? ! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \let 
+l.95   \end{subfigure}
+                      
+? 
+Underfull \hbox (badness 10000) in paragraph at lines 70--96
+[]$[]$   
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--96
+[]
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--96
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--96
+[]
+
+LaTeX Warning: Float too large for page by 960.10007pt on input line 96.
+
+
+LaTeX Warning: Reference `fig:variation' on page 7 undefined on input line 98.
+
+
+LaTeX Warning: Reference `fig:peak-position' on page 7 undefined on input line 
+100.
+
+[7 <./variation.png>]
+
+LaTeX Warning: Reference `fig:mean-energy' on page 8 undefined on input line 10
+6.
+
+
+LaTeX Warning: Reference `fig:stopping-power' on page 8 undefined on input line
+ 108.
+
+
+LaTeX Warning: Citation `taylor' on page 8 undefined on input line 108.
+
+[8 <./peak_position.png>] [9 <./mean_energy.png>] [10 <./stopping_power.png>]
+[11 <./count_rate.png> <./au198_spectrum.png>] [12 <./background.png> <./Pb.png
+>]
+
+LaTeX Warning: Reference `fig:count-rate' on page 13 undefined on input line 11
+0.
+
+
+LaTeX Warning: Reference `fig:au198-spectrum' on page 13 undefined on input lin
+e 114.
+
+
+LaTeX Warning: Reference `fig:background' on page 13 undefined on input line 11
+4.
+
+[13 <./Al.png>]
+
+LaTeX Warning: Reference `fig:Pb' on page 14 undefined on input line 116.
+
+
+LaTeX Warning: Reference `fig:Al' on page 14 undefined on input line 116.
+
+) (./discussion.tex
+
+LaTeX Warning: Reference `fig:peak-position' on page 14 undefined on input line
+ 3.
+
+[14]
+
+LaTeX Warning: Citation `nistrange' on page 15 undefined on input line 7.
+
+
+LaTeX Warning: Citation `nist' on page 15 undefined on input line 11.
+
+) [15]
+No file Lab6_9073072564_200427.bbl.
+[16]
+
+! LaTeX Error: Float(s) lost.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 \end{document}
+                   
+? [17] (./Lab6_9073072564_200427.aux)
+
+Package rerunfilecheck Warning: File `Lab6_9073072564_200427.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
 
 LaTeX Warning: There were undefined references.
 
@@ -95,24 +1196,24 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  )</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on Lab6_9073072564_200427.pdf (10 pages, 301776 bytes).
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmsy9.pfb>
+Output written on Lab6_9073072564_200427.pdf (17 pages, 508247 bytes).
 Transcript written on Lab6_9073072564_200427.log.
-bibtex Lab6_9073072564_200427.aux
-This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
-The top-level auxiliary file: Lab6_9073072564_200427.aux
-I found no \citation commands---while reading file Lab6_9073072564_200427.aux
-I found no \bibdata command---while reading file Lab6_9073072564_200427.aux
-I found no \bibstyle command---while reading file Lab6_9073072564_200427.aux
-(There were 3 error messages)
 Makefile:6: recipe for target 'Lab6_9073072564_200427.pdf' failed
