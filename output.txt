@@ -1,0 +1,118 @@
+pdflatex Lab6_9073072564_200427.tex
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./Lab6_9073072564_200427.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 3 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo))
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu)
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu)))
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def))))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def)))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+No file Lab6_9073072564_200427.aux.
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(./Lab6_9073072564_200427.out) (./Lab6_9073072564_200427.out)
+
+LaTeX Warning: No \author given.
+
+(./introduction.tex [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 20.
+
+[2]) (./approach.tex
+
+LaTeX Warning: Reference `fig:alpha-setup' on page 3 undefined on input line 3.
+
+
+
+LaTeX Warning: Reference `fig:au198' on page 3 undefined on input line 26.
+
+
+LaTeX Warning: Reference `fig:gamma-setup' on page 3 undefined on input line 26
+.
+
+) [3] (./results.tex
+
+LaTeX Warning: Reference `fig:variation' on page 4 undefined on input line 40.
+
+
+LaTeX Warning: Reference `fig:peak-position' on page 4 undefined on input line 
+42.
+
+
+LaTeX Warning: Reference `fig:mean-energy' on page 4 undefined on input line 48
+.
+
+[4 <./alpha_setup.png>] [5 <./au198.png> <./gamma_setup.png>] [6 <./variation.p
+ng> <./peak_position.png>] [7 <./mean_energy.png>] [8 <./stopping_power.png>]
+[9 <./count_rate.png>]
+
+LaTeX Warning: Reference `fig:stopping-power' on page 10 undefined on input lin
+e 50.
+
+
+LaTeX Warning: Reference `fig:count-rate' on page 10 undefined on input line 52
+.
+
+) [10] (./Lab6_9073072564_200427.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on Lab6_9073072564_200427.pdf (10 pages, 301776 bytes).
+Transcript written on Lab6_9073072564_200427.log.
+bibtex Lab6_9073072564_200427.aux
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+The top-level auxiliary file: Lab6_9073072564_200427.aux
+I found no \citation commands---while reading file Lab6_9073072564_200427.aux
+I found no \bibdata command---while reading file Lab6_9073072564_200427.aux
+I found no \bibstyle command---while reading file Lab6_9073072564_200427.aux
+(There were 3 error messages)
+Makefile:6: recipe for target 'Lab6_9073072564_200427.pdf' failed

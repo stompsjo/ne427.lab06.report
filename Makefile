@@ -2,7 +2,7 @@ PAPER=Lab6_9073072564_200427
 
 all: $(PAPER).pdf
 
-$(PAPER).pdf: $(PAPER).tex references.bib 
+$(PAPER).pdf: *.tex references.bib 
 	pdflatex $(PAPER).tex
 	bibtex $(PAPER).aux
 	pdflatex $(PAPER).tex
