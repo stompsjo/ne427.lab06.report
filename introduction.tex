@@ -1,14 +1,14 @@
 \section{Introduction}
 
-Scientists for decades have studied the nuclear structures of various nuclei for their material properties, biological impacts, and natural origins. Further understanding of the nuclear structure has been a priority of the scientific community towards the development of innovative technology. For example, in nuclear engineering, understanding the properties of shielding materials like lead and aluminum helps protect nuclear reactor workers, medical patients, and several groups in between. Studying nuclei requires methods to register signatures unique to that nuclei. Particularly with radioactive materials, detectors have been developed that record and recognize these unique signatures.
+Scientists for decades have studied the nuclear structures of various nuclei for their material properties, biological impacts, and natural origins. Further understanding of the nuclear structure has been a priority of the scientific community towards the development of innovative technology. For example, in nuclear engineering, understanding the properties of shielding materials like lead and aluminum helps protect nuclear reactor workers, medical personnel, etc. Studying nuclei requires methods to register signatures unique to that nuclei.
 
-When a radioactive nucleus decays, it emits a radiation unique to the type of decay exhibited. Several radiation types and radioactive decays exist and detecting each type requires certain types of sophistication. Some decays emit heavy charged particles, like an $\alpha$ particle. The characteristic decay occurs when a nucleus emits the $\alpha$ particle:
+When a radioactive nucleus decays, it emits a radiation unique to the type of decay exhibited. Several radiation types and radioactive decays exist and detecting each type requires certain types of sophistication. Some decays emit heavy charged particles, like an $\alpha$ particle:
 
 \begin{equation}
 {}^{A}_{Z}X \rightarrow {}^{A-4}_{Z-2}Y + {}^{4}_{2}{He}
 \end{equation}
 
-An $\alpha$ particle is just a helium nucleus consisting of two neutrons and two protons. Since this is only a nucleus, it is highly positively charged relative to its surroundings. Because this is a large, charged particle, it has a very short range before interactions with its surroundings stop it. The $\alpha$ particle slows down either by collisions with other particles or by attractions with opposite charges that neutralize its charge. This makes detecting $\alpha$ particles challenging since a detector must be close enough to the source of the radioactivity less the radiation be stopped prior to reaching the detector. Finding the range of heavy charged particles can be useful, especially for specific nuclei and their decays, so that shielding the radiation can better be determined. With $\alpha$-decays, only a few centimeters of shielding may be required to protect against this harmful radiation. This lab attempts to quantify that range in with an $\alpha$ particle is stopped. This can be calculated using the Bethe Formula \cite{melissinos}:
+An $\alpha$ particle is a helium nucleus consisting of two neutrons and two protons. Since this is only a nucleus, it is positively charged relative to its surroundings. Because this is a large, charged particle, it has a very short range before interactions with its surroundings stop it. The $\alpha$ particle slows down either by collisions with other particles or by attractions with opposite charges that neutralize its own charge. This makes detecting $\alpha$ particles challenging since a detector must be close enough to the source of the radioactivity less the radiation be stopped prior to reaching the detector. Finding the range of heavy charged particles can be useful, especially for specific nuclei and their decays, so that shielding the radiation can better be determined. With $\alpha$-decays, only a few centimeters of shielding may be required to protect against this harmful radiation, even when that shielding is simply air. This lab attempts to quantify that range in which an $\alpha$ particle is stopped. This can be calculated using the Bethe Formula \cite{melissinos}:
 
 \begin{equation}
 -\frac{dE}{dx} = \frac{4\pi e^{4} z^{2}}{m_{0}v^{2}} NB
@@ -29,10 +29,10 @@ R = \int_{E_{0}}^{0} \frac{dE}{(-\frac{dE}{dx})}
 This is the characteristic range and can also be measured by experiments like the one in this work. Some radioactive nuclei decay by emitting high energy electromagnetic radiation called $\gamma$-rays:
 
 \begin{equation}
-{}^{A}_{Z}X* \rightarrow {}^{A}_{Z}X + {}^{0}_{0}\gamma
+{}^{A}_{Z}X^{*} \rightarrow {}^{A}_{Z}X + {}^{0}_{0}\gamma
 \end{equation}
 
-Several interactions with materials can slow down $\gamma$ radiation \cite{krane}. Low energies are characterized by the photoelectric effect, in which $\gamma$ radiation is absorbed by an electron in the material, which is consequently freed by this new energy. Compton scattering occurs at medium energies, where the radiation collides with a target, imparting energy and changing the direction of both particles. At high energies, above 1022 keV, pair production dominates. This is where the $\gamma$ radiation turns into an electron-positron pair. The combination these interaction mechanisms results in radiation stopping power with slightly different characteristics than heavy charged particles like an $\alpha$ particle. $\beta$-decays, in which a radioactive nucleus emits an electron or positron with an appropriate antineutrino, also is governed by these stopping interactions, since its main radiation is energized electrons.
+Several interactions with materials can slow down $\gamma$ radiation \cite{krane}. Low energies are characterized by the photoelectric effect, in which $\gamma$ radiation is absorbed by an electron in the material, which is consequently freed by this new energy. Compton scattering occurs at medium energies, where the radiation collides with a target, imparting energy and changing the direction of both particles. At high energies (above 1022 keV) pair production dominates. This is where the $\gamma$ radiation turns into an electron-positron pair. The combination these interaction mechanisms results in radiation stopping power with slightly different characteristics than heavy charged particles like an $\alpha$ particle. $\beta$-decays, in which a radioactive nucleus emits an electron or positron with an appropriate antineutrino, also is governed by these stopping interactions, since its main radiation is energized electrons.
 
 Shielding performance of these radiations is characterized by an exponential decay \cite{knoll}:
 
@@ -40,7 +40,7 @@ Shielding performance of these radiations is characterized by an exponential dec
 I(t) = I_{0}e^{-\mu t}
 \end{equation}
 
-Here, $I_{0}$ is the radiation counting rate without an absorber, $t$ is the thickness of the absorber, and $\mu$ is the linear attenuation coefficient. $\mu$ consists of the various interactions that stop $\gamma$ radiation. While this can depend on the energy of the radiation, determining a value can describe the shielding performance of the material. A mass attenuation coefficient ($\mu/\rho$) can also be defined that accounts for the density of a specific absorbing material \cite{knoll}:
+Here, $I_{0}$ is the radiation counting rate without an absorber, $t$ is the thickness of the absorber, and $\mu$ is the linear attenuation coefficient. $\mu$ is affected by the material uniqueness of the various interactions that stop $\gamma$ radiation. A mass attenuation coefficient ($\mu/\rho$) can also be defined that accounts for the density of a specific absorbing material \cite{knoll}:
 
 \begin{equation}
 I(t) = I_{0}e^{-(\frac{\mu}{\rho})\rho t}
